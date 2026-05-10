@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @oodlexaps
-- 👀 I’m setting up my home security camera system using Frigate's Home Assistant add-on
-- 🌱 I’m currently learning python
 
 <!---
 - 💞️ I’m looking to collaborate on ...
